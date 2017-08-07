@@ -6,3 +6,15 @@
 	padding: 24px;
 	flex: none;
 }
+
+.mdl-layout__header-row{
+	padding: 0 16px 0 32px;
+}
+
+.reset-btn{
+	width: 100%;
+}
+
+.calculate-btn{
+	width: 90%;
+}
